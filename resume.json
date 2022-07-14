@@ -1,0 +1,74 @@
+{
+    "basics": {
+      "name": "SarathKumar Raja",
+      "email": "rsarathkumarajacse@gmail.com",
+      "phone": "+91-8489131283",
+      "degree": "B.E(CSE)",
+      "summary": "Over 6 years experience in System administration, technical troubleshooting and hardware support. Experience in administering, installing, maintaining Desktop’s and various types of hardware.",
+      "location": {
+        "address": "Athanur(Vill),Gendikanahalli(Po)",
+        "postalCode": "635205",
+        "city": "Dharmapuri",
+        "countryCode": "IN",
+        "region": "TamilNadu"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "SarathKumar raja",
+          "url": "https://www.linkedin.com/in/sarathkumar-r-33b4b7111/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "DXC Technology",
+        "position": "Professional 1 Application Delivery",
+        "startDate": "2018-08-28",
+        "endDate": "",
+        "summary": "Support the client device & Applications",
+        "highlights": [
+          "⮚Handling Incident Tickets, Request Tickets and Problem Tickets using Service Now",
+          "⮚Providing O365 Support like Intune user role assignment, MFA reset, User profile manage",
+          "⮚Providing first point of contact support to end users with professionalism, timelines and accuracy",
+          "⮚Generating Weekly Summary Report and share report to the team internally"
+      ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "SAMS College of Engineering & Technology - affiliated to Anna university ",
+        "area": "Chennai",
+        "studyType": "Engineering",
+        "startDate": "2011",
+        "endDate": "2014",
+        "gpa": "5.7",
+        "courses": [
+          "Computer Science Enginerring"
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Programming Language",
+        "level": "Beginner",
+        "keywords": [
+          "Javascript, HTML,SQL"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "'English','Tamil'",
+        "fluency": "'Excellent','Excellent'"
+      }
+    ],
+    "interests": [
+      {
+        "name": "'Sports', 'Listening Music', 'Reading Books & Novels'",
+        "keywords": [
+          "'Cricket', 'Kabbadi')"
+        ]
+      }
+    ]
+  }
